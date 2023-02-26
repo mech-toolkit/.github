@@ -12,6 +12,9 @@ The purpose of this toolkit is to provide a set of tools and libraries that can 
 The first demonstratable version of this toolkit is be a MECH that can hunt, track and punch each other in the face, because the 11 year old in us things that is just plain cool.
 The last demonstratable this toolkit will be a MECH rules the solar system. (Like the Ship Minds from Culture by Ian M Banks)
 
+## Where to Start?
+It is best to start by reading through our setup guide [here](https://www.instructables.com/Punchy-the-MECH-the-Autonomous-Fight-Club/)
+
 # Repositories of MECH-toolkit:
 
 - [platforms](https://github.com/mech-toolkit/platforms) - The mechanical and electrical documentation for MECHs (3D Print Files, Electrical Diagrams, Sensor Datasheets).

@@ -14,7 +14,7 @@ The last demonstratable this toolkit will be a MECH rules the solar system. (Lik
 
 # Repositories of MECH-toolkit:
 
-- [platforms](https://github.com/mech-toolkit/platforms) - The mechanical and electrical documentation for MECHs.
-- [mcu](https://github.com/mech-toolkit/mcu) - repo contains source code for Micro Controler Units.  (The little boards on the MECH that input vision, and ultrasonics and control the servos that move the MECH.)
-- [mechlib](https://github.com/mech-toolkit/mechlib) - a small python libary for autonomously controling MECHs.  This integrates networking, vision, and motion control to control the MECH.
+- [platforms](https://github.com/mech-toolkit/platforms) - The mechanical and electrical documentation for MECHs (3D Print Files, Electrical Diagrams, Sensor Datasheets).
+- [mcu](https://github.com/mech-toolkit/mcu) - The source code for Microcontrolers that run on the MECHs (controls wireless comms, input vision, ultrasonics and control the servos that move the MECH).
+- [mechlib](https://github.com/mech-toolkit/mechlib) - The python libary for autonomously controling MECHs.  This integrates networking, vision, and motion control to control the MECH.
 - [pretrained](https://github.com/mech-toolkit/pretrained) - The releases of pre-trained AI models for MECHs.

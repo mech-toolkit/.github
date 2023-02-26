@@ -1,15 +1,16 @@
-# Autonomous Mech Toolkit
+# MECH Toolkit
 We have a dream of autonomous mechs
 
 ## What is this?
 This is a toolkit for autonomous mechs. It is a collection of tools and libraries that can be used to create autonomous mechs.
 
-## What is an autonomous mech?
-An autonomous mech is a mech that operates in the world without human intervention. It can be a robot, a drone, a vehicle, a ship, a plane, a submarine, a space ship, a space station, a
+## What is a mech?
+An autonomous robot that operates in the world without human intervention. It can be a drone, an electric car, a excavator, a ship, a plane, a submarine, a space ship, a satelite, a space station, a
 
 ## What is the purpose of this toolkit?
 The purpose of this toolkit is to provide a set of tools and libraries that can be used to create autonomous mechs.
-The first demonstratable version of this toolkit will be a mech that hunt and Punch each other in the face, because the 11 year old in us things that is just plain cool.
+The first demonstratable version of this toolkit is be a mech that hunt and Punch each other in the face, because the 11 year old in us things that is just plain cool.
+The last demonstratable this toolkit will be a mech rules the solar system.
 
 # Repositories of mech-toolkit:
 
